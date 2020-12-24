@@ -1,0 +1,27 @@
+{
+  "name": "fresh-notelogs",
+  "version": "1.0.0",
+  "description": "Express Note Taker App",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "inquirer": "^7.3.3",
+    "util": "^0.12.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CdmMandalorian/Fresh-NoteLogs.git"
+  },
+  "author": "Armando E Galindo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CdmMandalorian/Fresh-NoteLogs/issues"
+  },
+  "homepage": "https://github.com/CdmMandalorian/Fresh-NoteLogs#readme"
+}
